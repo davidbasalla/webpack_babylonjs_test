@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "babylonjs": "^3.1.0-beta5"
   }
 }
